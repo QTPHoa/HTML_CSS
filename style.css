@@ -1,0 +1,15 @@
+h1{
+    background-color: white;
+            color: red;
+}
+body{
+  font-family: Arial;
+}
+#one{
+  text-align: center;
+}
+#Letuyet{
+  font-weight: 600;
+  text-align: left;
+
+}
